@@ -4205,7 +4205,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="222.25" y="10.2108" size="1.9304" layer="101" font="vector">Letter</text>
 <text x="227.6602" y="14.7066" size="1.9304" layer="101" font="vector">1</text>
 <text x="223.52" y="5.3848" size="1.9304" layer="101" font="vector">1</text>
-<text x="228.346" y="5.3848" size="1.9304" layer="101" font="vector">2</text>
+<text x="228.346" y="5.3848" size="1.9304" layer="101" font="vector">1</text>
 <wire x1="231.14" y1="3.81" x2="231.14" y2="18.288" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="22.86" x2="198.12" y2="22.86" width="0.1524" layer="205"/>
 <wire x1="198.12" y1="22.86" x2="231.14" y2="22.86" width="0.1524" layer="205"/>
